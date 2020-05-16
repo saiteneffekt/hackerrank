@@ -1,4 +1,4 @@
-package de.saiteneffekt.array2d;
+package array2d;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

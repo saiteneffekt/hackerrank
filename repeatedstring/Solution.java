@@ -1,4 +1,4 @@
-package de.saiteneffekt.repeatedstring;
+package repeatedstring;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

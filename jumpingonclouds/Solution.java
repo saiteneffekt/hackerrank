@@ -1,4 +1,4 @@
-package de.saiteneffekt.jumpingonclouds;
+package jumpingonclouds;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

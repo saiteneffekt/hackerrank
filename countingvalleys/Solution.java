@@ -1,4 +1,4 @@
-package de.saiteneffekt.countingvalleys;
+package countingvalleys;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

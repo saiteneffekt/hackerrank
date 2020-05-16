@@ -1,4 +1,4 @@
-package de.saiteneffekt.sockmerchant;
+package sockmerchant;
 
 import java.io.*;
 import java.util.*;
